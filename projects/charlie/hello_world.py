@@ -29,17 +29,18 @@ app = App()
 # %% [markdown]
 # # Set color of center button
 # Possible values of color are:
-# 'azure' (probably my favorite)
-# 'black' (turns it off)
-# 'blue'
-# 'cyan'
-# 'green'
-# 'orange'
-# 'pink'
-# 'red'
-# 'violet'
-# 'yellow'
-# 'white' (default)
+# 
+# * `azure` (probably my favorite)
+# * `black` (turns it off)
+# * `blue`
+# * `cyan`
+# * `green`
+# * `orange`
+# * `pink`
+# * `red`
+# * `violet`
+# * `yellow`
+# * `white` (default)
 
 # %%
 button_color = 'black'
