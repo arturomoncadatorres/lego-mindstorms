@@ -13,6 +13,17 @@
 #     name: python3
 # ---
 
+# %% [markdown]
+# # `hello_world`
+# Python equivalent of the `Hello World` program
+#
+# # Required robot
+# * Charlie (head)
+#
+# <img src="./multimedia/charlie_head.png" width="50%" align="center">
+#
+# # Imports
+
 # %%
 from mindstorms import MSHub, Motor, MotorPair, ColorSensor, DistanceSensor, App
 from mindstorms.control import wait_for_seconds, wait_until, Timer
@@ -20,7 +31,7 @@ from mindstorms.operator import greater_than, greater_than_or_equal_to, less_tha
 import math
 
 # %% [markdown]
-# # Initialization.
+# # Initialization
 
 # %%
 hub = MSHub()
@@ -29,7 +40,7 @@ app = App()
 # %% [markdown]
 # # Set color of center button
 # Possible values of color are:
-# 
+#
 # * `azure` (probably my favorite)
 # * `black` (turns it off)
 # * `blue`
@@ -55,78 +66,11 @@ print("DONE!")
 # with a default orientation of upright.
 
 # %% [markdown]
-# # Start animation.
+# # Start "animation"
 # At the time of writing, there is no equivalent in Python
 # to the "start animation" block. However, we can display images in the hub.
-# Possible animations are (notice that they need to be in caps):
-#    
-# * `ANGRY`
-# * `ARROW_E`
-# * `ARROW_N`
-# * `ARROW_NE`
-# * `ARROW_NW`
-# * `ARROW_S`
-# * `ARROW_SE`
-# * `ARROW_SW`
-# * `ARROW_W`
-# * `ASLEEP`
-# * `BUTTERFLY`
-# * `CHESSBOARD`
-# * `CLOCK1`
-# * `CLOCK10`
-# * `CLOCK11`
-# * `CLOCK12`
-# * `CLOCK2`
-# * `CLOCK3`
-# * `CLOCK4`
-# * `CLOCK5`
-# * `CLOCK6`
-# * `CLOCK7`
-# * `CLOCK8`
-# * `CLOCK9`
-# * `CONFUSED`
-# * `COW`
-# * `DIAMOND`
-# * `DIAMOND_SMALL`
-# * `DUCK`
-# * `FABULOUS`
-# * `GHOST`
-# * `GIRAFFE`
-# * `GO_RIGHT`
-# * `GO_LEFT`
-# * `GO_UP`
-# * `GO_DOWN`
-# * `HAPPY`
-# * `HEART`
-# * `HEART_SMALL`
-# * `HOUSE`
-# * `MEH`
-# * `MUSIC_CROTCHET`
-# * `MUSIC_QUAVER`
-# * `MUSIC_QUAVERS`
-# * `NO`
-# * `PACMAN`
-# * `PITCHFORK`
-# * `RABBIT`
-# * `ROLLERSKATE`
-# * `SAD`
-# * `SILLY`
-# * `SKULL`
-# * `SMILE`
-# * `SNAKE`
-# * `SQUARE`
-# * `SQUARE_SMALL`
-# * `STICKFIGURE`
-# * `SURPRISED`
-# * `SWORD`
-# * `TARGET`
-# * `TORTOISE`
-# * `TRIANGLE`
-# * `TRIANGLE_LEFT`
-# * `TSHIRT`
-# * `UMBRELLA`
-# * `XMAS`
-# * `YES`
+#
+# For a complete list of possible animations, see the example [`random_images`](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/examples)
 
 # %%
 image = 'HEART'
