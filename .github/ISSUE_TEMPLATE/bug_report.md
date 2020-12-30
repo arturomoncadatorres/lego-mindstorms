@@ -39,6 +39,5 @@ Sample code to reproduce the problem
 <!-- Please paste or specifically describe the actual output or traceback. -->
 
 #### Versions
-* DeepSurvK version:
-* Python version:
+* LEGO Mindstorms app version:
 * Operating System:
