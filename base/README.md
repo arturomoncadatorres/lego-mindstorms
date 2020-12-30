@@ -11,20 +11,28 @@ The [LEGO Mindstorms 51515 software](https://www.microsoft.com/en-us/p/lego-mind
   <img width="50%" src="../multimedia/charlie.png">
 </p>
 
+-------
+
 * ## **[Tricky](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base/tricky)**<br>
 <p align="center">
   <img width="50%" src="../multimedia/tricky.png">
 </p>
+
+-------
 
 * ## **[Blast](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base/blast)**<br>
 <p align="center">
   <img width="50%" src="../multimedia/blast.png">
 </p>
 
+-------
+
 * ## **[MVP](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base/mvp)**<br>
 <p align="center">
   <img width="50%" src="../multimedia/mvp.png">
 </p>
+
+-------
 
 * ## **[Gelo](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base/gelo)**<br>
 <p align="center">
