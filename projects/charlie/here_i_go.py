@@ -13,6 +13,17 @@
 #     name: python3
 # ---
 
+# %% [markdown]
+# # `here_i_go`
+# Python equivalent of the `Here I Go!` program
+#
+# # Required robot
+# * Charlie
+#
+# <img src="./multimedia/charlie.png" width="50%" align="center">
+#
+# # Imports
+
 # %%
 from mindstorms import MSHub, Motor, MotorPair, ColorSensor, DistanceSensor, App
 from mindstorms.control import wait_for_seconds, wait_until, Timer
@@ -20,7 +31,7 @@ from mindstorms.operator import greater_than, greater_than_or_equal_to, less_tha
 import math
 
 # %% [markdown]
-# # Initialization.
+# # Initialization
 
 # %%
 hub = MSHub()
@@ -36,7 +47,7 @@ hub.status_light.on(button_color)
 print("DONE!")
 
 # %% [markdown]
-# # Show animation (i.e., image) in hub.
+# # Display animation (i.e., image) in hub.
 
 # %%
 print("Displaying first image...")
@@ -73,7 +84,7 @@ motor_pair.move(amount, unit='cm', steering=steering)
 print("DONE!")
 
 # %% [markdown]
-# # Show animation (i.e., image) in hub.
+# # Display animation (i.e., image) in hub
 
 # %%
 print("Displaying last image...")
@@ -87,6 +98,7 @@ print("DONE!")
 sound = 'Wobble'
 volume = 75
 
+# %%
 print("Playing sound '" + sound + "' with volume " + str(volume) + "...")
 app.play_sound(sound, volume)
 print("DONE!")
