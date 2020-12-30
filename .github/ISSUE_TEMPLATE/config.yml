@@ -2,6 +2,6 @@ blank_issues_enabled: false
 contact_links:
   - name: "\U0001F4AC Discussion"
     url: https://github.com/arturomoncadatorres/lego-mindstorms/discussions
-    about: If you have any questions, comments, or feedback, please open a discussion
+    about: If you have any questions, comments, feature suggestions, or feedback, please open a discussion
     context:
         button-text: Go to discussions
