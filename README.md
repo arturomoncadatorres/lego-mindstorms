@@ -1,18 +1,25 @@
-<img src="./multimedia/mindstorms_51515.png" width="100%" align="center">
+<p align="center">
+  <img width="100%" src="./multimedia/mindstorms_51515.png">
+</p>
 
 This repository hosts my LEGO Mindstorms projects. All of them use the electronics of the [51515 set](https://www.lego.com/en-us/product/robot-inventor-51515) and are programmed using (Micro)Python. I've grouped them in three categories:
 
-* **Base projects**<br>
-The [LEGO Mindstorms 51515 software](https://www.microsoft.com/en-us/p/lego-mindstorms-robot-inventor/9mtq0n7w1d6x) already comes with several programs for the different robots. However, these are programmed using Scratch. In this directory you will find their counterparts in Python.
+### **[Base projects](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base)**<br>
+* The [LEGO Mindstorms 51515 software](https://www.microsoft.com/en-us/p/lego-mindstorms-robot-inventor/9mtq0n7w1d6x) already comes with several programs for the different robots. However, these are programmed using Scratch. In this directory you will find their counterparts in Python.
 
-<img src="./multimedia/mindstorms_robots.png" width="75%" align="center">
+<p align="center">
+  <img width="90%" src="./multimedia/mindstorms_robots.png">
+</p>
 
-* **[Example scripts](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/examples)**<br>
-A few example scripts that I've created to test or experiment some functionality that I thought would be worth sharing.
+### **[Example scripts](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/examples)**<br>
+* A few example scripts that I've created to test or experiment some functionality that I thought would be worth sharing.
 
-* **Original projects**<br>
-Here I've documented my own creations. For each of them, I've included the building instructions for the robot (as a PDF), as well as its corresponding (Python) program, so that anyone can reproduce them and, most importantly, improve them.
+### **[Original projects](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/original)**<br>
+* Here I've documented my own creations. For each of them, I've included the building instructions for the robot (as a PDF), as well as its corresponding (Python) program, so that anyone can reproduce them and, most importantly, *build* upon them!*
 
+<sup><sub>* Pun absolutely intended</sup></sub>
+
+-------
 
 ## My setup
 Although technically the 51515 hub can be programmed in Python, its support is quite limited. You are restricted to writing code in Python within the LEGO Mindstorms app (either in your laptop, tablet, or mobile), locking you out of using your preferred (and probably more powerful) IDE. Moreover, each project is saved as an `.lms` file, regardless if it is written in Scratch or Python. `.lms` files are binary and thus cannot be put under version control.
@@ -52,10 +59,9 @@ Given these restrictions, this is how I've configured my setup for the developme
 
 After this, I just get into the coding and documentation cycle (with a lot of copy-pasting in between). This setup isn't ideal, but at least it works. I hope that in the future the LEGO Mindstorms app works with `.py` files. Technically, Python support is still on beta, so it might still happen!
 
----------
+##### <br> **TLDR**: For each project, copy the contents of the `.py` file into the Mindstorms Python project.
 
-**TLDR**: For each project, copy the contents of the `.py` file into the Mindstorms Python project.
-
+----------
 
 ## Questions? Feedback?
-If you have any questions, comments, or feedback, please [open a discussion](https://github.com/arturomoncadatorres/lego-mindstorms/discussions). If there is a problem with the code (e.g., mistake), please [open an issue](https://github.com/arturomoncadatorres/lego-mindstorms/issues). Moreover, you can always drop me a line on [Twitter (@amoncadatorres)](https://twitter.com/amoncadatorres).
+If you have any questions, comments, or feedback, please [open a discussion](https://github.com/arturomoncadatorres/lego-mindstorms/discussions). If there is a problem with the code (e.g., mistake), please [open an issue](https://github.com/arturomoncadatorres/lego-mindstorms/issues). Moreover, you can always drop me a line on Twitter [(@amoncadatorres)](https://twitter.com/amoncadatorres).
