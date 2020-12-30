@@ -19,37 +19,37 @@ from mindstorms.control import wait_for_seconds, wait_until, Timer
 from mindstorms.operator import greater_than, greater_than_or_equal_to, less_than, less_than_or_equal_to, equal_to, not_equal_to
 import math
 
-#%% [markdown]
+# %% [markdown]
 # # Initialization.
 
-#%%
+# %%
 hub = MSHub()
 app = App()
 
-#%% [markdown]
+# %% [markdown]
 # # Set color of center button
 
-#%%
+# %%
 button_color = 'black'
 print("Turning color of center button to " + button_color + "...")
 hub.status_light.on(button_color)
 print("DONE!")
 
-#%% [markdown]
+# %% [markdown]
 # # Show animation (i.e., image) in hub.
 
-#%%
+# %%
 print("Displaying first image...")
 hub.light_matrix.show_image('HAPPY')
 print("DONE!")
 
-#%% [markdown]
-
+# %% [markdown]
+#
 # # Control motors
 # We could initialize and control the motors individually.
 # However, it can be very practical to pair them, which can be done as follows.
 
-#%%
+# %%
 # Initialize motors.
 print("Initializing motors...")
 motor_pair = MotorPair('A', 'E')
@@ -72,18 +72,18 @@ print("Moving the motors by " + str(amount) + " cm and steering of " + str(steer
 motor_pair.move(amount, unit='cm', steering=steering)
 print("DONE!")
 
-#%% [markdown]
+# %% [markdown]
 # # Show animation (i.e., image) in hub.
 
-#%%
+# %%
 print("Displaying last image...")
 hub.light_matrix.show_image('CONFUSED')
 print("DONE!")
 
-#%% [markdown]
+# %% [markdown]
 # # Play sound
 
-#%%
+# %%
 sound = 'Wobble'
 volume = 75
 
