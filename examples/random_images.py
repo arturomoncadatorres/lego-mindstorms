@@ -22,14 +22,19 @@
 #
 # <img src="./multimedia/charlie_head.png" width="50%" align="center">
 #
-# # Imports and initialization
+# # Imports
 
 # %%
 from mindstorms import MSHub, Motor, MotorPair, ColorSensor, DistanceSensor, App
 from mindstorms.control import wait_for_seconds, wait_until, Timer
 from mindstorms.operator import greater_than, greater_than_or_equal_to, less_than, less_than_or_equal_to, equal_to, not_equal_to
 import math
+
+# %%
 import random # Needed to generate random numbers
+
+# %% [markdown]
+# # Initialization
 
 # %%
 hub = MSHub()
@@ -59,6 +64,8 @@ print("Total number of images: " + str(n_images))
 
 # %% [markdown]
 # # Display images
+# To choose the images to display, we will generate a random index
+# using [`random.randint`](https://docs.python.org/3/library/random.html#random.randint)
 
 # %%
 for ii in range(1, 4):
