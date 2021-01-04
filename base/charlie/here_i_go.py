@@ -22,6 +22,9 @@
 #
 # <img src="./multimedia/charlie.png" width="50%" align="center">
 #
+# # Source code
+# You can find the code in the accompanying [`.py` file](https://github.com/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/here_i_go.py). To get it running, simply copy and paste it in a new Mindstorms project.
+#
 # # Imports
 
 # %%
