@@ -15,7 +15,7 @@
 
 # %% [markdown]
 # # `hello_world`
-# Python equivalent of the `Hello World` program
+# Python equivalent of the `Hello World` program. Displays an image and plays a sound using the hub.
 #
 # # Required robot
 # * Charlie (head)

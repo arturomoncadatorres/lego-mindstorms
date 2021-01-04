@@ -15,7 +15,7 @@
 
 # %% [markdown]
 # # `here_i_go`
-# Python equivalent of the `Here I Go!` program
+# Python equivalent of the `Here I Go!` program. Makes Charlie spin.
 #
 # # Required robot
 # * Charlie
