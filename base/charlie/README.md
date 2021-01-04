@@ -19,4 +19,7 @@ Make Charlie spin.
 * [`up_in_arms`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/up_in_arms.ipynb)<br>
 Make Charlie raise and lower his hands.
 
+* [`time_to_celebrate`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/time_to_celebrate.ipynb)<br>
+Let's make Charlie dance!
+
 * ...
