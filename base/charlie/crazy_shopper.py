@@ -48,14 +48,8 @@ print("-"*15 + " Execution started " + "-"*15 + "\n")
 hub = MSHub()
 app = App()
 
-# %% [markdown]
-# # Turn off center button 
-# By setting its color to black
-
 # %%
-print("Turning center button off...")
 hub.status_light.on('black')
-print("DONE!")
 
 # %% [markdown]
 # # Configure motors

@@ -29,6 +29,9 @@ Makes Charlie react differently depending on the color we show him.
 Play with Charlie and make him discover the world around him.
 
 * [`crazy_shopper`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/crazy_shopper.ipynb)<br>
-Let's help Charly deliver his shopping!
+Let's help Charlie deliver his shopping!
+
+* [`shy_guy`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/shy_guy.ipynb)<br>
+Charlie can be quite shy sometimes!
 
 * ...
