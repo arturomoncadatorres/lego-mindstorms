@@ -132,7 +132,7 @@ while True: # This will make the execution go forever
 
         elif color == 'red':
             hub.light_matrix.show_image('ANGRY')
-            motors_movement.move(10, units='cm', steering=0)
+            motors_movement.move(10, unit='cm', steering=0)
 
         else:
             # For all the other colors, do nothing.
