@@ -14,6 +14,11 @@
 # ---
 
 # %% [markdown]
+#
+# <p align="center">
+#  <img width="100%" src="../../multimedia/mindstorms_51515_logo.png">
+# </p>
+#
 # # `my_favorite_color`
 # Python equivalent of the `My favorite color` program. Makes Charlie react differently depending on the color we show him.
 #

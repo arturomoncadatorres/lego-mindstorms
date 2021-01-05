@@ -14,6 +14,11 @@
 # ---
 
 # %% [markdown]
+#
+# <p align="center">
+#  <img width="100%" src="../../multimedia/mindstorms_51515_logo.png">
+# </p>
+#
 # # `up_in_arms`
 # Python equivalent of the `Up in arms` program. Charlie waits to be tapped. When tapped, he raises his hands, says hi, and lowers his hands.
 #

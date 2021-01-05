@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="../multimedia/mindstorms_51515.png">
+  <img width="100%" src="../multimedia/mindstorms_51515_logo.png">
 </p>
 
 
@@ -29,7 +29,9 @@ My LEGO Mindstorms collection is composed of 4 different sets:
   <img width="50%" src="./multimedia/mindstorms_51515_box.jpg">
 </p>
 
-While the rest of this repository is focused on the latter, there is a chance that the models that you will find here use pieces from these sets as well. Don't worry: at the end of the instructions of each model, you will find the bill of materials. This should allow you to get the missing pieces separately (for which I recommend [Bricklink](https://www.bricklink.com/v2/main.page), although there are many other marketplaces where you can probably get them as well).
+While the rest of this repository is focused on the last set, there is a chance that the models that you will find here use pieces from these other sets as well. Don't worry: at the end of the instructions of each model, you will find the bill of materials. This should allow you to get the missing pieces separately (for which I recommend [Bricklink](https://www.bricklink.com/v2/main.page), although there are many other marketplaces where you can probably get them as well).
+
+If any project uses pieces from any other set, it will be mentioned explicitly in its description.
 
 ## The Storage
 WIP

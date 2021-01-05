@@ -14,6 +14,11 @@
 # ---
 
 # %% [markdown]
+#
+# <p align="center">
+#  <img width="100%" src="../multimedia/mindstorms_51515_logo.png">
+# </p>
+#
 # # `random_images`
 # Display a set of random images in the hub
 #

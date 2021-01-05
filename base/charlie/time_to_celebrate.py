@@ -14,6 +14,11 @@
 # ---
 
 # %% [markdown]
+#
+# <p align="center">
+#  <img width="100%" src="../../multimedia/mindstorms_51515_logo.png">
+# </p>
+#
 # # `time_to_celebrate`
 # Python equivalent of the `Time to celebrate` program. Makes Charlie dance.
 #

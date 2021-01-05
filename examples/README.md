@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="../multimedia/mindstorms_51515.png">
+  <img width="100%" src="../multimedia/mindstorms_51515_logo.png">
 </p>
 
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./multimedia/mindstorms_51515.png">
+  <img width="100%" src="./multimedia/mindstorms_51515_logo.png">
 </p>
 
 This repository hosts my LEGO Mindstorms projects. All of them use the electronics of the [51515 set](https://www.lego.com/en-us/product/robot-inventor-51515) and are programmed using (Micro)Python. I've grouped them in three categories:
@@ -8,7 +8,7 @@ This repository hosts my LEGO Mindstorms projects. All of them use the electroni
 * The [LEGO Mindstorms 51515 software](https://www.microsoft.com/en-us/p/lego-mindstorms-robot-inventor/9mtq0n7w1d6x) already comes with several programs for the different robots. However, these are programmed using Scratch. In this directory you will find their counterparts in Python.
 
 <p align="center">
-  <img width="90%" src="./multimedia/mindstorms_robots.png">
+  <img width="90%" src="./multimedia/mindstorms_51515_robots.png">
 </p>
 
 ### **[Example scripts](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/examples)**<br>

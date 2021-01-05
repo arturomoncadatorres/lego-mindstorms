@@ -14,6 +14,11 @@
 # ---
 
 # %% [markdown]
+#
+# <p align="center">
+#  <img width="100%" src="../../multimedia/mindstorms_51515_logo.png">
+# </p>
+#
 # # `here_i_go`
 # Python equivalent of the `Here I Go!` program. Makes Charlie spin.
 #

@@ -14,6 +14,11 @@
 # ---
 
 # %% [markdown]
+#
+# <p align="center">
+#  <img width="100%" src="../../multimedia/mindstorms_51515_logo.png">
+# </p>
+#
 # # `hello_world`
 # Python equivalent of the `Hello World` program. Displays an image and plays a sound using the hub.
 #
