@@ -20,7 +20,7 @@
 # </p>
 #
 # # `shy_guy`
-# Python equivalent of the `Shy guy` program. Charly can be quite shy sometimes!
+# Python equivalent of the `Shy guy` program. Charlie can be quite shy sometimes!
 #
 # # Required robot
 # * Charlie (with distance sensor)

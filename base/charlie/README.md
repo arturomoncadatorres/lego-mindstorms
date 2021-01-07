@@ -34,4 +34,7 @@ Let's help Charlie deliver his shopping!
 * [`shy_guy`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/shy_guy.ipynb)<br>
 Charlie can be quite shy sometimes!
 
+* [`drum_solo`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/drum_solo.ipynb)<br>
+Charlie drums away. Importantly, this program shows an example of "async" execution using coroutines.
+
 * ...
