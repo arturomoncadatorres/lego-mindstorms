@@ -42,12 +42,12 @@
 #
 # However, during my testing, the drumsticks kept moving or falling, which was a bit frustrating. Thus, I adapted Charlie's hands grip to hold the drumsticks more steadily, as shown here. Basically, I replaced the fingertips with pins, where I snapped in the drumsticks:
 #
-# <p float="left" align="middle">
-#   <img src="./multimedia/charlie_drummer_fingertips_1.jpeg" width="24%" />
-#   <img src="./multimedia/charlie_drummer_fingertips_2.jpeg" width="24%" /> 
-#   <img src="./multimedia/charlie_drummer_fingertips_3.jpeg" width="24%" />
-#   <img src="./multimedia/charlie_drummer_fingertips_4.jpeg" width="24%" />
-# </p>
+# <table><tr>
+# <td> <img src="./multimedia/charlie_drummer_fingertips_1.jpeg" alt="" style="width: 100%;"/> </td>
+# <td> <img src="./multimedia/charlie_drummer_fingertips_2.jpeg" alt="" style="width: 100%;"/> </td>
+# <td> <img src="./multimedia/charlie_drummer_fingertips_3.jpeg" alt="" style="width: 100%;"/> </td>
+# <td> <img src="./multimedia/charlie_drummer_fingertips_4.jpeg" alt="" style="width: 100%;"/> </td>
+# </tr></table>
 #
 # Much, much better.
 #
