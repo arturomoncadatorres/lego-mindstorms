@@ -12,3 +12,12 @@ In this directory, you will find the (Micro)Python scripts corresponding to Blas
 
 
 * Coming soon...
+
+-------------
+<p align="center">
+  <a href="https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base/charlie">Charlie</a> •
+  <a href="https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base/tricky">Tricky</a> •
+  Blast •
+  <a href="https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base/mvp">MVP</a> •
+  <a href="https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base/gelo">Gelo</a>
+</p>

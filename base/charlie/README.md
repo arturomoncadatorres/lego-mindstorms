@@ -37,4 +37,16 @@ Charlie can be quite shy sometimes!
 * [`drum_solo`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/programs/drum_solo.ipynb?flush_cache=True)<br>
 Charlie drums away. Importantly, this program shows an example of "async" execution using coroutines.
 
+* [`drum_master`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/programs/drum_master.ipynb?flush_cache=True)<br>
+Charlie takes his drumming to a new level.
+
 * ...
+
+-------------
+<p align="center">
+  Charlie •
+  <a href="https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base/tricky">Tricky</a> •
+  <a href="https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base/blast">Blast</a> •
+  <a href="https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base/mvp">MVP</a> •
+  <a href="https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base/gelo">Gelo</a>
+</p>
