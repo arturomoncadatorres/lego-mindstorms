@@ -40,8 +40,19 @@
 #
 # <img src="./multimedia/charlie_drummer.png" width="50%" align="center">
 #
+# However, during my testing, the drumsticks kept moving or falling, which was a bit frustrating. Thus, I adapted Charlie's hands grip to hold the drumsticks more steadily, as shown here. Basically, I replaced the fingertips with pins, where I snapped in the drumsticks:
+#
+# <p float="left" align="middle">
+#   <img src="./multimedia/charlie_drummer_fingertips_1.jpeg" width="24%" />
+#   <img src="./multimedia/charlie_drummer_fingertips_2.jpeg" width="24%" /> 
+#   <img src="./multimedia/charlie_drummer_fingertips_3.jpeg" width="24%" />
+#   <img src="./multimedia/charlie_drummer_fingertips_4.jpeg" width="24%" />
+# </p>
+#
+# Much, much better.
+#
 # # Source code
-# You can find the code in the accompanying [`.py` file](https://github.com/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/charlie_drummer.py). To get it running, simply copy and paste it in a new Mindstorms project.
+# You can find the code in the accompanying [`.py` file](https://github.com/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/drum_solo.py). To get it running, simply copy and paste it in a new Mindstorms project.
 #
 # # Imports
 
