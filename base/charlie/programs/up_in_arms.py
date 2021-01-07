@@ -16,7 +16,7 @@
 # %% [markdown]
 #
 # <p align="center">
-#  <img width="100%" src="../../multimedia/mindstorms_51515_logo.png">
+#  <img width="100%" src="../../../multimedia/mindstorms_51515_logo.png">
 # </p>
 #
 # # `up_in_arms`
@@ -25,10 +25,10 @@
 # # Required robot
 # * Charlie
 #
-# <img src="./multimedia/charlie.png" width="50%" align="center">
+# <img src="../multimedia/charlie.png" width="50%" align="center">
 #
 # # Source code
-# You can find the code in the accompanying [`.py` file](https://github.com/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/up_in_arms.py). To get it running, simply copy and paste it in a new Mindstorms project.
+# You can find the code in the accompanying [`.py` file](https://github.com/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/programs/up_in_arms.py). To get it running, simply copy and paste it in a new Mindstorms project.
 #
 # # Imports
 

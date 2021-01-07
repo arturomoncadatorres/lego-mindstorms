@@ -16,7 +16,7 @@
 # %% [markdown]
 #
 # <p align="center">
-#  <img width="100%" src="../../multimedia/mindstorms_51515_logo.png">
+#  <img width="100%" src="../../../multimedia/mindstorms_51515_logo.png">
 # </p>
 #
 # # `drum_solo`
@@ -38,21 +38,21 @@
 # # Required robot
 # * Charlie (with basic drum set)
 #
-# <img src="./multimedia/charlie_drummer.png" width="50%" align="center">
+# <img src="../multimedia/charlie_drummer.png" width="50%" align="center">
 #
 # However, during my testing, the drumsticks kept moving or falling, which was a bit frustrating. Thus, I adapted Charlie's hands grip to hold the drumsticks more steadily, as shown here. Basically, I replaced the fingertips with pins, where I snapped in the drumsticks:
 #
 # <table><tr>
-# <td> <img src="./multimedia/charlie_drummer_fingertips_1.jpeg" alt="" style="width: 100%;"/> </td>
-# <td> <img src="./multimedia/charlie_drummer_fingertips_2.jpeg" alt="" style="width: 100%;"/> </td>
-# <td> <img src="./multimedia/charlie_drummer_fingertips_3.jpeg" alt="" style="width: 100%;"/> </td>
-# <td> <img src="./multimedia/charlie_drummer_fingertips_4.jpeg" alt="" style="width: 100%;"/> </td>
+# <td> <img src="../multimedia/charlie_drummer_fingertips_1.jpeg" alt="" style="width: 100%;"/> </td>
+# <td> <img src="../multimedia/charlie_drummer_fingertips_2.jpeg" alt="" style="width: 100%;"/> </td>
+# <td> <img src="../multimedia/charlie_drummer_fingertips_3.jpeg" alt="" style="width: 100%;"/> </td>
+# <td> <img src="../multimedia/charlie_drummer_fingertips_4.jpeg" alt="" style="width: 100%;"/> </td>
 # </tr></table>
 #
 # Much, much better.
 #
 # # Source code
-# You can find the code in the accompanying [`.py` file](https://github.com/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/drum_solo.py). To get it running, simply copy and paste it in a new Mindstorms project.
+# You can find the code in the accompanying [`.py` file](https://github.com/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/programs/drum_solo.py). To get it running, simply copy and paste it in a new Mindstorms project.
 #
 # # Imports
 

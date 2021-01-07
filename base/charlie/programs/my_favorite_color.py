@@ -16,7 +16,7 @@
 # %% [markdown]
 #
 # <p align="center">
-#  <img width="100%" src="../../multimedia/mindstorms_51515_logo.png">
+#  <img width="100%" src="../../../multimedia/mindstorms_51515_logo.png">
 # </p>
 #
 # # `my_favorite_color`
@@ -25,10 +25,10 @@
 # # Required robot
 # * Charlie (with color sensor and color palette)
 #
-# <img src="./multimedia/charlie_color.jpg" width="50%" align="center">
+# <img src="../multimedia/charlie_color.jpg" width="50%" align="center">
 #
 # # Source code
-# You can find the code in the accompanying [`.py` file](https://github.com/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/my_favorite_color.py). To get it running, simply copy and paste it in a new Mindstorms project.
+# You can find the code in the accompanying [`.py` file](https://github.com/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/programs/my_favorite_color.py). To get it running, simply copy and paste it in a new Mindstorms project.
 #
 # # Imports
 

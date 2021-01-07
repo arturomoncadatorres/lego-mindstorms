@@ -16,7 +16,7 @@
 # %% [markdown]
 #
 # <p align="center">
-#  <img width="100%" src="../../multimedia/mindstorms_51515_logo.png">
+#  <img width="100%" src="../../../multimedia/mindstorms_51515_logo.png">
 # </p>
 #
 # # `hello_world`
@@ -25,10 +25,10 @@
 # # Required robot
 # * Charlie (head)
 #
-# <img src="./multimedia/charlie_head.png" width="50%" align="center">
+# <img src="../multimedia/charlie_head.png" width="50%" align="center">
 #
 # # Source code
-# You can find the code in the accompanying [`.py` file](https://github.com/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/hello_world.py). To get it running, simply copy and paste it in a new Mindstorms project.
+# You can find the code in the accompanying [`.py` file](https://github.com/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/programs/hello_world.py). To get it running, simply copy and paste it in a new Mindstorms project.
 #
 # # Imports
 
