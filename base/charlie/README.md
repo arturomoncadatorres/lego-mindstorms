@@ -40,6 +40,9 @@ Charlie drums away. Importantly, this program shows an example of "async" execut
 * [`drum_master`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/programs/drum_master.ipynb?flush_cache=True)<br>
 Charlie takes his drumming to a new level.
 
+* [`high_five`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/programs/high_five.ipynb?flush_cache=True)<br>
+Let's high five our favorite robot. Don't let him hanging!
+
 * ...
 
 -------------
