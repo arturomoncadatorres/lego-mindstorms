@@ -19,7 +19,7 @@
 #  <img width="100%" src="../../../multimedia/mindstorms_51515_logo.png">
 # </p>
 #
-# # `drum_solo`
+# # `drum_master`
 # Python equivalent of the `Drum master!` program. Charlie takes his drumming to a new level.
 #
 # This program is a direct follow-up of `drum_solo`. Actually, the first part is exactly the same.
