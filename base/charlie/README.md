@@ -43,6 +43,9 @@ Charlie takes his drumming to a new level.
 * [`high_five`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/programs/high_five.ipynb?flush_cache=True)<br>
 Let's high five our favorite robot. Don't let him hanging!
 
+* [`surprise`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/programs/surprise.ipynb?flush_cache=True)<br>
+If you show roaming Charlie his favorite color, he will give you a surprise!
+
 * ...
 
 -------------
