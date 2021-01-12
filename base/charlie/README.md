@@ -49,7 +49,8 @@ If you show roaming Charlie his favorite color, he will give you a surprise!
 * [`skiboard_time`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/programs/skiboard_time.ipynb?flush_cache=True)<br>
 Charlie goes skiing on his board
 
-* ...
+* [`multiplayer_minigolf`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/programs/multiplayer_minigolf.ipynb?flush_cache=True)<br>
+Take turns to help Charlie score!
 
 -------------
 <p align="center">
