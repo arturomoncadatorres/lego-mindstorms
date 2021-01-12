@@ -46,6 +46,9 @@ Let's high five our favorite robot. Don't let him hanging!
 * [`surprise`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/programs/surprise.ipynb?flush_cache=True)<br>
 If you show roaming Charlie his favorite color, he will give you a surprise!
 
+* [`skiboard_time`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/charlie/programs/skiboard_time.ipynb?flush_cache=True)<br>
+Charlie goes skiing on his board
+
 * ...
 
 -------------
