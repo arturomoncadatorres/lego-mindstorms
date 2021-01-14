@@ -47,19 +47,9 @@ app = App()
 
 # %% [markdown]
 # # Set color of center button
-# Possible values of color are:
+# For a list and demo of all possible colors, see the example [`push_my_color`](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/examples)
 #
-# * `azure` (probably my favorite)
-# * `black` (turns it off)
-# * `blue`
-# * `cyan`
-# * `green`
-# * `orange`
-# * `pink`
-# * `red`
-# * `violet`
-# * `yellow`
-# * `white` (default)
+# It is worth mentioning that `black` will turn off the center button.
 
 # %%
 button_color = 'black'

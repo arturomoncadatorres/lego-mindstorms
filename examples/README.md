@@ -6,7 +6,10 @@
 # Examples
 In this directory, you will find a few example scripts that I've created to test or experiment some functionality that I thought would be worth sharing.
 
-* [`random_images`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/examples/random_images.ipynb)<br>
+* [`random_images`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/examples/programs/random_images.ipynb?flush_cache=True)<br>
 Display a set of random images in the hub
+
+* [`push_my_color`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/examples/programs/random_images.ipynb?flush_cache=True)<br>
+Small game where the hub "thinks" of a random color and the player has to guess it by using the hub's buttons.
 
 * More examples to come...
