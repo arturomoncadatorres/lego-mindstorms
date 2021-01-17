@@ -11,7 +11,8 @@ In this directory, you will find the (Micro)Python scripts corresponding to MVP'
 </p>
 
 
-* Coming soon...
+* [`the_mvp_buggy`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/mvp/programs/the_mvp_buggy.ipynb?flush_cache=True)<br>
+Make MVP Buggy go round.
 
 -------------
 <p align="center">
