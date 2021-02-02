@@ -14,6 +14,10 @@ In this directory, you will find the (Micro)Python scripts corresponding to MVP'
 * [`the_mvp_buggy`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/base/mvp/programs/the_mvp_buggy.ipynb?flush_cache=True)<br>
 Make MVP Buggy go round.
 
+Unfortunately, [remote control functionality isn't available in Python](https://github.com/maarten-pennings/Lego-Mindstorms/blob/main/ms4/faq.md#can-i-remote-control-my-robot). Thus, the rest of MVP's original activities aren't just possible to code in Python. However, I will try to create some alternatives.
+
+* ...
+
 -------------
 <p align="center">
   <a href="https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base/charlie">Charlie</a> •
