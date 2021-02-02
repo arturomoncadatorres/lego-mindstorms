@@ -6,7 +6,26 @@
 # Original Projects
 Here, I've documented my own creations. For each of them, I've included the building instructions for the robot (as a PDF), as well as its corresponding (Python) program, so that anyone can reproduce them and, most importantly, *build* upon them!
 
-## The Sets
+<p align="center">
+  <a href="#projects">Projects</a> •
+  <a href="#base-sets">Base sets</a> •
+  <a href="#my-storage-solution">My storage solution</a> •
+  <a href="#creating-instructions">Creating instructions</a>
+</p>
+
+------
+
+## Projects
+
+* ## **[AAT MS](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/original/aat_ms)**<br>
+Based on the original AAT built of the Dark Side Developer Kit, ...
+<p align="center">
+  <img width="50%" src="./aat_ms/multimedia/aat_ms.png">
+</p>
+
+-------
+
+## Base sets
 My LEGO Mindstorms collection is composed of 4 different sets:
 
 * #### The 2006 Mindstorms **[(8527)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=8527-1)**<br>
@@ -33,8 +52,31 @@ While the rest of this repository is focused on the last set, there is a chance 
 
 If any project uses pieces from any other set, it will be mentioned explicitly in its description.
 
-## The Storage
-WIP
+-------
 
-## The instructions
+## My storage solution
+Having my LEGO pieces in order and easy to access makes a huge difference in making my building process enjoyable. I have organized all my stuff using two [Plano Molding boxes](https://www.planomolding.com/medium-rack-organizer).
+
+<table><tr>
+<td> <img src="./multimedia/plano_1.jpg" alt="" style="width: 100%;"/> </td>
+<td> <img src="./multimedia/plano_2.jpg" alt="" style="width: 100%;"/> </td>
+</tr>
+</table>
+
+They measure 32 x 22 x 36 cm, which makes them spacious enough to fit all your stuff, but still very easy to handle. The top part of each container is great to store the hub, motors, sensors, and very big elements (like the Duplo balls). Moreover, the individual boxes are perfect for storing the small pieces. Very importantly, they come with adjustable compartments, so you can make your own divisions as you prefer:
+
+<table><tr>
+<td> <img src="./multimedia/plano_3.jpg" alt="" style="width: 100%;"/> </td>
+<td> <img src="./multimedia/plano_4.jpg" alt="" style="width: 100%;"/> </td>
+<td> <img src="./multimedia/plano_5.jpg" alt="" style="width: 100%;"/> </td>
+</tr>
+</table>
+
+Consider that I use two boxes to store the elements of all 4 sets. However, if you are starting with, let's say, the 51515 set only, my guess is that one box should be enough. Because of the variety of LEGO elements, I would probably go for the one with 4 shallow boxes (i.e., the yellow one), rather than the one with 1 shallow and 2 deep boxes (i.e., the brown one).
+
+You can easily find them in [Amazon](https://www.amazon.nl/gp/product/B001TH8P1E/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1). However, be careful with the dimensions: there are a couple of smaller alternatives. Unfortunately, you cannot tell the difference from the pictures only, so always check the specifications.
+
+-------
+
+## Creating instructions
 WIP
