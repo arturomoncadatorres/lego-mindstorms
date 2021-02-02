@@ -61,6 +61,38 @@ After this, I just get into the coding and documentation cycle (with a lot of co
 
 ##### <br> **TLDR**: For each project, copy the contents of the `.py` file into the Mindstorms Python project.
 
+-------
+
+## Additional resources
+If you need some pointers on where to start learning Python to program your first LEGO Mindstorms robots or if you want to go deep into the rabbit hole with your creations, I recommend taking a look at this resources:
+### Basics
+
+* [Python programming lessons](https://primelessons.org/en/Lessons.html) by Sanjay and Arvind Seshan <br>
+Amazing resource for LEGO Mindstorms robot programming. A bit focused towards FIRST LEGO League, but useless nevertheless. Content is structured as classroom lessons. It is actively being developed.
+
+* [LEGO Mindstorms 51515 Micropython programming tutorial](https://www.eurobricks.com/forum/index.php?/forums/topic/181083-lego-mindstorms-51515-micropython-programming-tutorial/) by Coder Shah <br>
+Handy playlist with some YouTube videos that should get you started quite quickly on the basics of Python for LEGO Mindstorms.
+
+### Intermediate
+* [LEGO Mindstorms FAQ](https://github.com/maarten-pennings/Lego-Mindstorms/blob/main/ms4/faq.md) by Maarten Pennings <br>
+More than a FAQ, I'd say this is a guide well worth reading from start to bottom. Even if you already know the basics, I am sure you will learn something useful
+
+* [(Unofficial) Documentation for LEGO Mindstorms Python API](https://onedrive.live.com/?authkey=%21AJZ35NPPkkN0Wfw&id=CD7CB52696D0FB0B%2150790&cid=CD7CB52696D0FB0B) by [Laid Back Koala](https://www.eurobricks.com/forum/index.php?/forums/topic/182548-some-ris-51515-docs/) <br>
+Very handy resource if you are sick of the Knowledge Base closing every time you switch windows wrapped. It comes in a cohesive, nice PDF format. It also has a PDF for Scratch!
+
+* [Undocumented Python for LEGO Mindstorms](https://antonsmindstorms.com/2021/01/14/advanced-undocumented-python-in-spike-prime-and-mindstorms-hubs/) by Anton's Mindstorms <br>
+`from mindstorms import MSHub` and then `hub = MSHub()`, right? Well, actually `import hub` has way many more options. Spoiler alert: it is cool, but it is a tad less user friendly.
+
+### Advanced
+* [Pybricks](https://docs.pybricks.com/en/latest/) by the Pybricks team <br>
+If you feel that the LEGO Mindstorms vanilla (Micro)Python starts being insufficient for your creations, you might want to take a look at Pybricks. Basically, you download a new firmware to your hub where you run Pybrick's version of (Micro)Python. However, note that [support for the 51515 set is still on alpha](https://github.com/pybricks/support/issues/167) at the time of writing.
+
+* How can I run two motors asynchronously? <br>
+The moment you start building more ellaborate robots, you will come across this issue sooner or later. So far, I've found two different ways to tackle this:
+    - [Using co-routines](https://community.legoeducation.com/discuss/viewtopic/66/110), as proposed by David Lechner (actual code [here](https://gist.github.com/dlech/fa48f9b2a3a661c79c2c5880684b63ae)). I tried this approach in [Charlie's `drum_solo`](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base/charlie) activity and it works quite well.
+    - [Using mathematical functions](https://www.antonsmindstorms.com/2021/01/27/python-motor-synchronization-coordinating-multiple-spike-or-mindstorms-motors/), as proposed by Anton's Mindstorms. It looks quite ingenious. However, I haven't had the chance to try it myself.
+
+
 ----------
 
 ## Questions? Feedback?
