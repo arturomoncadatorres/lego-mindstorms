@@ -15,14 +15,14 @@
 ## Projects
 All of the projects use the electronics of the [51515 set](https://www.lego.com/en-us/product/robot-inventor-51515) and are programmed using (Micro)Python (although some of them might include their Scratch equivalent). I've grouped them in three categories:
 
-#### [Base projects](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base)<br>
+### [Base projects](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/base)<br>
 * The [LEGO Mindstorms 51515 software](https://www.microsoft.com/en-us/p/lego-mindstorms-robot-inventor/9mtq0n7w1d6x) already comes with several programs for the different robots. However, these are programmed using Scratch. In this directory you will find their counterparts in Python.
 
 <p align="center">
   <img width="90%" src="./multimedia/mindstorms_51515_robots.png">
 </p>
 
-#### [Example scripts](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/examples)<br>
+### [Example scripts](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/examples)<br>
 * A few example scripts that I've created to test or experiment some functionality that I thought would be worth sharing.
 
 <table><tr>
@@ -31,6 +31,8 @@ All of the projects use the electronics of the [51515 set](https://www.lego.com/
 <td> <img src="./examples/multimedia/cyan.jpeg" alt="" style="width: 100%;"/> </td>
 <td> <img src="./examples/multimedia/green.jpeg" alt="" style="width: 100%;"/> </td>
 <td> <img src="./examples/multimedia/orange.jpeg" alt="" style="width: 100%;"/> </td>
+</tr>
+<tr>
 <td> <img src="./examples/multimedia/pink.jpeg" alt="" style="width: 100%;"/> </td>
 <td> <img src="./examples/multimedia/red.jpeg" alt="" style="width: 100%;"/> </td>
 <td> <img src="./examples/multimedia/violet.jpeg" alt="" style="width: 100%;"/> </td>
@@ -39,7 +41,10 @@ All of the projects use the electronics of the [51515 set](https://www.lego.com/
 </tr>
 </table>
 
-#### [Original projects](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/original)<br>
+
+
+
+### [Original projects](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/original)<br>
 * Here I've documented my own creations. For each of them, I've included the building instructions for the robot (as a PDF), as well as its corresponding (Python) program, so that anyone can reproduce them and, most importantly, *build* upon them!*
 
 <sup><sub>* Pun absolutely intended</sup></sub>
