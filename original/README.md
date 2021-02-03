@@ -58,17 +58,17 @@ If any project uses pieces from any other set, it will be mentioned explicitly i
 Having my LEGO pieces in order and easy to access makes a huge difference in making my building process enjoyable. I have organized all my stuff using two [Plano Molding boxes](https://www.planomolding.com/medium-rack-organizer).
 
 <table><tr>
-<td> <img src="./multimedia/plano_1.jpg" alt="" style="width: 100%;"/> </td>
-<td> <img src="./multimedia/plano_2.jpg" alt="" style="width: 100%;"/> </td>
+<td> <img src="./multimedia/plano_01.jpg" alt="" style="width: 100%;"/> </td>
+<td> <img src="./multimedia/plano_02.jpg" alt="" style="width: 100%;"/> </td>
 </tr>
 </table>
 
 They measure 32 x 22 x 36 cm, which makes them spacious enough to fit all your stuff, but still very easy to handle. The top part of each container is great to store the hub, motors, sensors, and very big elements (like the Duplo balls). Moreover, the individual boxes are perfect for storing the small pieces. Very importantly, they come with adjustable compartments, so you can make your own divisions as you prefer:
 
 <table><tr>
-<td> <img src="./multimedia/plano_3.jpg" alt="" style="width: 100%;"/> </td>
-<td> <img src="./multimedia/plano_4.jpg" alt="" style="width: 100%;"/> </td>
-<td> <img src="./multimedia/plano_5.jpg" alt="" style="width: 100%;"/> </td>
+<td> <img src="./multimedia/plano_03.jpg" alt="" style="width: 100%;"/> </td>
+<td> <img src="./multimedia/plano_04.jpg" alt="" style="width: 100%;"/> </td>
+<td> <img src="./multimedia/plano_05.jpg" alt="" style="width: 100%;"/> </td>
 </tr>
 </table>
 
