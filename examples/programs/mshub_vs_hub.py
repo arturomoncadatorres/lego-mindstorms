@@ -38,7 +38,7 @@ from mindstorms.control import wait_for_seconds, wait_until, Timer
 from mindstorms.operator import greater_than, greater_than_or_equal_to, less_than, less_than_or_equal_to, equal_to, not_equal_to
 import math
 
-#%%
+# %%
 import hub # Key to enable the `hub` functionality!
 
 # %% [markdown]
@@ -46,7 +46,7 @@ import hub # Key to enable the `hub` functionality!
 # # Initialization
 # #### Using `MSHub`
 # We need to initialize it using
-# 
+#
 # `hub = MSHub()`
 #
 # #### Using `hub`
@@ -67,12 +67,12 @@ import hub # Key to enable the `hub` functionality!
 # In this case, we can choose a color using the command
 #
 # `hub.led(r, g, b)`
-# 
+#
 # Where `r`, `g`, and `b` correspond to RGB values, respectively, with values between 0 and 255.
 #
 # So, if we want to turn it on blue
 
-#%%
+# %%
 hub.led(0, 0, 255)
 wait_for_seconds(5)
 
@@ -92,7 +92,7 @@ wait_for_seconds(5)
 # | `red`      | `9`   |
 # | `white`      | `10`   |
 
-#%%
+# %%
 hub.led(9)
 wait_for_seconds(5)
 
@@ -108,7 +108,7 @@ wait_for_seconds(5)
 # ### Using `hub`
 # We just set all values to 0.
 
-#%%
+# %%
 hub.led(0, 0, 0)
 wait_for_seconds(5)
 
@@ -121,18 +121,18 @@ wait_for_seconds(5)
 # # Sounds
 #
 # ## Predefined beep sounds
-# 
+#
 # ### Using `MSHub`
 # Unfortunately, the library of predefined beep sounds is not available.
 #
 # ### Using `hub`
 # We can play them very easily.
 
-#%%
+# %%
 hub.sound.play("/extra_files/Target Destroyed")
 
 # %% [markdown]
-# The available sounds are given in the next table:
+# The available sounds are given in the next table.
 #
 # | Original robot | Sound |
 # |:---------------|-------|
