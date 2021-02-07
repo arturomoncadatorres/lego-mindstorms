@@ -12,4 +12,7 @@ Display a set of random images in the hub
 * [`push_my_color`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/examples/programs/push_my_color.ipynb?flush_cache=True)<br>
 Small game where the hub "thinks" of a random color and the player has to guess it by using the hub's buttons.
 
+* [`mshub_vs_hub`](https://nbviewer.jupyter.org/github/arturomoncadatorres/lego-mindstorms/blob/main/examples/programs/mshub_vs_hub.ipynb?flush_cache=True)<br>
+A comparison between the functionality offered by `MSHub` and `hub`. I will be constantly updating this one as I learn more about them.
+
 * More examples to come...
