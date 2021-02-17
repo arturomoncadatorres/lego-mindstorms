@@ -28,7 +28,7 @@
 # You can find a video of the robot functioning [here](https://www.youtube.com/watch?v=Ma7CmThktUg&feature=youtu.be&ab_channel=ArturoMoncada-Torres).
 #
 # # Required robot
-# * AAT MS5 (you can find the [instructions for building it here](https://arturomoncadatorres.com/aat_ms5/))
+# * AAT MS5 (you can find the [instructions for building it here](https://arturomoncadatorres.com/aat-ms5/))
 #
 # <img src="../multimedia/aat_ms5.png" width="50%" align="center">
 #
