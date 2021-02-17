@@ -17,18 +17,19 @@ Here, I've documented my own creations. For each of them, I've included the buil
 
 ## Projects
 
-* ## **[AAT MS](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/original/aat_ms)**<br>
-Based on the original AAT built of the Dark Side Developer Kit, ...
+* ## **[AAT MS5](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/original/aat_ms5)**<br>
+Armored Assault Tank using the MINDSTORMS 51515 set, or **AAT MS5** in short. It is inspired by the [Battle Droid on STAP](https://arturomoncadatorres.com/battle-droid-stap/) of the Droid Developer Kit and the [AAT](https://arturomoncadatorres.com/aat/) of the Dark Side Developer Kit.
+
 <p align="center">
-  <img width="50%" src="./aat_ms/multimedia/aat_ms.png">
+  <img width="50%" src="./aat_ms5/multimedia/aat_ms5.png">
 </p>
 
 -------
 
 ## Base sets
-My LEGO Mindstorms collection is composed of 4 different sets:
+My LEGO MINDSTORMS collection is composed of 4 different sets:
 
-* #### The 2006 Mindstorms **[(8527)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=8527-1)**<br>
+* #### The 2006 MINDSTORMS **[(8527)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=8527-1)**<br>
 <p align="center">
   <img width="50%" src="./multimedia/mindstorms_8527_box.jpg">
 </p>
@@ -43,7 +44,7 @@ My LEGO Mindstorms collection is composed of 4 different sets:
   <img width="50%" src="./multimedia/mindstorms_9754_box.jpg">
 </p>
 
-* #### The 2020 Mindstorms **[(51515)](https://www.lego.com/en-us/product/robot-inventor-51515)**<br>
+* #### The 2020 MINDSTORMS **[(51515)](https://www.lego.com/en-us/product/robot-inventor-51515)**<br>
 <p align="center">
   <img width="50%" src="./multimedia/mindstorms_51515_box.jpg">
 </p>

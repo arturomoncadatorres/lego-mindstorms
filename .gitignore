@@ -135,3 +135,6 @@ dmypy.json
 /original/*/instructions
 /original/*/models
 /original/*/renders
+
+# Videos (too large)
+*.mp4
