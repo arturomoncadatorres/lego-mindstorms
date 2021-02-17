@@ -128,5 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Ignore shortcuts
+# Shortcuts
 *.lnk
+
+# Instructions (hosted on website), renders and models (too large) of original creations.
+/original/*/instructions
+/original/*/models
+/original/*/renders
