@@ -18,36 +18,69 @@ Here, I've documented my own creations (MOCs). For each of them, I've included t
 ## Projects
 
 * ## **[AAT MS5](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/mocs/aat_ms5)**<br>
+
+<table><tr>
+<td>
+<p>
+
 Armored Assault Tank using the MINDSTORMS 51515 set, or **AAT MS5** in short. It is inspired by the [Battle Droid on STAP](https://arturomoncadatorres.com/battle-droid-stap/) of the Droid Developer Kit and the [AAT](https://arturomoncadatorres.com/aat/) of the Dark Side Developer Kit.
 
-<p align="center">
-  <img width="50%" src="./aat_ms5/multimedia/aat_ms5.png">
 </p>
+</td>
+<td> <img src="./aat_ms5/multimedia/aat_ms5.png" alt="" style="width: 100%;"/> </td>
+</tr>
+</table>
+
+
+
 
 -------
 
 ## Base sets
 My LEGO MINDSTORMS collection is composed of 4 different sets:
 
-* #### The 2006 MINDSTORMS **[(8527)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=8527-1)**<br>
-<p align="center">
-  <img width="50%" src="./multimedia/mindstorms_8527_box.jpg">
-</p>
+<table>
+<tr>
+<td>
+<p>
 
-* #### The Droid Developer Kit **[(9748)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=9748-1)**<br>
-<p align="center">
-  <img width="50%" src="./multimedia/mindstorms_9748_box.png">
-</p>
+#### The 2006 MINDSTORMS **[(8527)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=8527-1)**
 
-* #### The Dark Side Developer Kit **[(9754)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=9754-1)**<br>
-<p align="center">
-  <img width="50%" src="./multimedia/mindstorms_9754_box.jpg">
 </p>
+</td>
+<td> <img src="./multimedia/mindstorms_8527_box.jpg" alt="" style="width: 500px;"/> </td>
+</tr>
+<tr>
+<td>
+<p>
 
-* #### The 2020 MINDSTORMS **[(51515)](https://www.lego.com/en-us/product/robot-inventor-51515)**<br>
-<p align="center">
-  <img width="50%" src="./multimedia/mindstorms_51515_box.jpg">
+#### The Droid Developer Kit **[(9748)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=9748-1)**
+
 </p>
+</td>
+<td> <img src="./multimedia/mindstorms_9748_box.png" alt="" style="width: 500px;"/> </td>
+</tr>
+<tr>
+<td>
+<p>
+
+#### The Dark Side Developer Kit **[(9754)](https://www.bricklink.com/v2/catalog/catalogitem.page?S=9754-1)**
+
+</p>
+</td>
+<td> <img src="./multimedia/mindstorms_9754_box.jpg" alt="" style="width: 500px;"/> </td>
+</tr>
+<tr>
+<td>
+<p>
+
+#### The 2020 MINDSTORMS **[(51515)](https://www.lego.com/en-us/product/robot-inventor-51515)**
+
+</p>
+</td>
+<td> <img src="./multimedia/mindstorms_51515_box.jpg" alt="" style="width: 500px;"/> </td>
+</tr>
+</table>
 
 While the rest of this repository is focused on the last set, there is a chance that the models that you will find here use pieces from these other sets as well. Don't worry: at the end of the instructions of each model, you will find the bill of materials. This should allow you to get the missing pieces separately (for which I recommend [Bricklink](https://www.bricklink.com/v2/main.page), although there are many other marketplaces where you can probably get them as well).
 
