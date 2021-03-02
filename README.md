@@ -44,8 +44,8 @@ All of the projects use the electronics of the [51515 set](https://www.lego.com/
 
 
 
-### [Original projects](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/original)<br>
-* Here I've documented my own creations. For each of them, I've included the building instructions for the robot (as a PDF), as well as its corresponding (Python) program, so that anyone can reproduce them and, most importantly, *build* upon them!*
+### [MOCs](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/mocs)<br>
+* Here I've documented my own creations (MOCs). For each of them, I've included the building instructions for the robot (as a PDF), as well as its corresponding (Python) program, so that anyone can reproduce them and, most importantly, *build* upon them!*
 
 <sup><sub>* Pun absolutely intended</sup></sub>
 

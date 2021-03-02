@@ -1,0 +1,126 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+15462,6159763,15462,Technic, Axle 5 with Stop,88,70,Reddish Brown,Solid Colors,1,0.73
+18654,6121485,18654,Technic, Pin Connector Round 1L,11,0,Black,Solid Colors,4,0.17
+24119,6246996,24119,Technic, Panel Curved 7 x 3 with 2 Pin Holes through Panel Surface,1,15,White,Solid Colors,1,4.15
+2412a,,2412a,Tile, Modified 1 x 2 Grille without Bottom Groove / Lip,9,7,Light Gray,Solid Colors,1,0.21
+2412b,241202,2412b,Tile, Modified 1 x 2 Grille with Bottom Groove / Lip,9,7,Light Gray,Solid Colors,2,0.23
+24316,6135494,24316,Technic, Axle 3 with Stop,88,70,Reddish Brown,Solid Colors,2,0.45
+2476,,2476,Plate, Modified 2 x 2 with Pin on Bottom,9,7,Light Gray,Solid Colors,1,0.82
+2654,4617551,2654,Plate, Round 2 x 2 with Rounded Bottom (Boat Stud),11,0,Black,Solid Colors,4,0.45
+2654,4278271,2654,Plate, Round 2 x 2 with Rounded Bottom (Boat Stud),1,15,White,Solid Colors,2,0.45
+2744,6167025,2744,Technic Slope Long (Wing Back),1,15,White,Solid Colors,2,2.01
+2780,4121715,2780,Technic, Pin with Friction Ridges Lengthwise WITH Center Slots,11,0,Black,Solid Colors,87,0.16
+2825,4107136,2825,Technic, Liftarm 1 x 4 Thin with Stud Connector,11,0,Black,Solid Colors,2,0.75
+2825,4528324,2825,Technic, Liftarm 1 x 4 Thin with Stud Connector,1,15,White,Solid Colors,2,0.75
+3021,302101,3021,Plate 2 x 3,1,15,White,Solid Colors,1,0.93
+3023,302302,3023,Plate 1 x 2,9,7,Light Gray,Solid Colors,1,0.36
+30374,,30374,Bar   4L (Lightsaber Blade / Wand),12,1009005,Translucent Light Blue,Transparent Colors,2,0.3
+30374,6170186,30374,Bar   4L (Lightsaber Blade / Wand),16,1009003,Translucent Neon Green,Transparent Colors,2,0.3
+3039,303901,3039,Slope 45 2 x 2,1,15,White,Solid Colors,2,1.15
+3040,4121932,3040,Slope 45 2 x 1,1,15,White,Solid Colors,2,0.69
+3068a,,3068a,Tile 2 x 2 without Groove,1,15,White,Solid Colors,1,0.5
+3068b,306801,3068b,Tile 2 x 2 with Groove,1,15,White,Solid Colors,1,0.48
+32000,3200001,32000,Technic, Brick 1 x 2 with Holes,1,15,White,Solid Colors,2,0.72
+32009,4210668,32009,Technic, Liftarm 1 x 11.5 Double Bent Thick,85,72,Dark Bluish Gray,Solid Colors,4,3.46
+32009,4495412,32009,Technic, Liftarm 1 x 11.5 Double Bent Thick,1,15,White,Solid Colors,2,3.46
+32013,4118981,32013,Technic, Axle and Pin Connector Angled #1,1,15,White,Solid Colors,4,0.46
+32013,4106376,32013,Technic, Axle and Pin Connector Angled #1,9,7,Light Gray,Solid Colors,4,0.46
+32013,6284699,32013,Technic, Axle and Pin Connector Angled #1,11,0,Black,Solid Colors,2,0.46
+32013,4107797,32013,Technic, Axle and Pin Connector Angled #1,7,1,Blue,Solid Colors,2,0.46
+32014,6216111,32014,Technic, Axle and Pin Connector Angled #6 - 90 degrees,1,15,White,Solid Colors,2,0.66
+32014,6268905,32014,Technic, Axle and Pin Connector Angled #6 - 90 degrees,11,0,Black,Solid Colors,2,0.66
+32016,6261390,32016,Technic, Axle and Pin Connector Angled #3 - 157.5 degrees,1,15,White,Solid Colors,1,0.598
+32016,6261386,32016,Technic, Axle and Pin Connector Angled #3 - 157.5 degrees,11,0,Black,Solid Colors,4,0.67
+32017,4125365,32017,Technic, Liftarm 1 x 5 Thin,1,15,White,Solid Colors,2,0.58
+32039,4106469,32039,Technic, Axle Connector with Axle Hole,9,7,Light Gray,Solid Colors,4,0.3
+32039,4107081,32039,Technic, Axle Connector with Axle Hole,11,0,Black,Solid Colors,4,0.3
+32054,4211865,32054,Technic, Pin 3L with Friction Ridges Lengthwise and Stop Bush,86,71,Light Bluish Gray,Solid Colors,4,0.33
+32054,4140804,32054,Technic, Pin 3L with Friction Ridges Lengthwise and Stop Bush,39,3,Dark Turquoise,Solid Colors,5,0.33
+32054,4195303,32054,Technic, Pin 3L with Friction Ridges Lengthwise and Stop Bush,9,7,Light Gray,Solid Colors,4,0.33
+32054,4140801,32054,Technic, Pin 3L with Friction Ridges Lengthwise and Stop Bush,11,0,Black,Solid Colors,2,0.33
+32056,4112174,32056,Technic, Liftarm 3 x 3 L-Shape Thin,1,15,White,Solid Colors,2,0.73
+32062,4109810,32062,Technic, Axle 2 Notched,11,0,Black,Solid Colors,12,0.26
+32062,4142865,32062,Technic, Axle 2 Notched,5,4,Red,Solid Colors,2,0.26
+32073,4114740,32073,Technic, Axle 5,11,0,Black,Solid Colors,3,0.66
+4265c,4110050,4265c,Technic Bush 1/2 Smooth,9,7,Light Gray,Solid Colors,11,0.1
+32175,4125367,32175,Technic, Pin Connector 3 x 3 with Axle,1,15,White,Solid Colors,2,0.88
+32177,4531187,32177,Technic, Liftarm 1 x 7 with Fan,1,15,White,Solid Colors,2,2.7
+32184,4211621,32184,Technic, Axle and Pin Connector Perpendicular 3L with Center Pin Hole,86,71,Light Bluish Gray,Solid Colors,1,0.64
+32188,,32188,Technic, Panel Fairing # 3 Large Long, Large Holes, Side A,1,15,White,Solid Colors,1,6.25
+32188,,32188,Technic, Panel Fairing # 3 Large Long, Large Holes, Side A,9,7,Light Gray,Solid Colors,2,6.25
+32189,,32189,Technic, Panel Fairing # 4 Large Long, Large Holes, Side B,1,15,White,Solid Colors,1,6.25
+32189,,32189,Technic, Panel Fairing # 4 Large Long, Large Holes, Side B,9,7,Light Gray,Solid Colors,2,6.25
+32190,,32190,Technic, Panel Fairing # 1 Large Short, Large Holes, Side A,9,7,Light Gray,Solid Colors,1,3.2
+32191,,32191,Technic, Panel Fairing # 2 Large Short, Large Holes, Side B,9,7,Light Gray,Solid Colors,1,3.2
+32250,4128557,32250,Technic, Liftarm 3 x 5 L-Shape with Quarter Ellipse Thin,11,0,Black,Solid Colors,2,1.44
+32269,6084724,32269,Technic, Gear 20 Tooth Double Bevel,2,19,Tan,Solid Colors,2,1.4
+32270,4177431,32270,Technic, Gear 12 Tooth Double Bevel,11,0,Black,Solid Colors,1,0.58
+32271,6004144,32271,Technic, Liftarm 1 x 9 Bent (7 - 3) Thick,1,15,White,Solid Colors,2,2.63
+32278,4542578,32278,Technic, Liftarm 1 x 15 Thick,1,15,White,Solid Colors,3,4.0
+32291,4140430,32291,Technic, Axle and Pin Connector Perpendicular Double,11,0,Black,Solid Colors,2,0.6
+32308,,32308,Technic, Liftarm 3 x 7 x 2 Fork 3 Fingers,11,0,Black,Solid Colors,1,4.4
+32316,,32316,Technic, Liftarm 1 x 5 Thick,39,3,Dark Turquoise,Solid Colors,7,1.21
+32316,32316199,32316,Technic, Liftarm 1 x 5 Thick,85,72,Dark Bluish Gray,Solid Colors,1,1.21
+32333,6271358,32333,Technic, Pin Connector Block 1 x 5 x 3,11,0,Black,Solid Colors,1,2.9
+32348,32348199,32348,Technic, Liftarm 1 x 7 Bent (4 - 4) Thick,85,72,Dark Bluish Gray,Solid Colors,2,2.0
+32523,4142822,32523,Technic, Liftarm 1 x 3 Thick,11,0,Black,Solid Colors,4,0.7
+32523,,32523,Technic, Liftarm 1 x 3 Thick,39,3,Dark Turquoise,Solid Colors,4,0.7
+32524,4495935,32524,Technic, Liftarm 1 x 7 Thick,11,0,Black,Solid Colors,8,1.74
+32524,4495927,32524,Technic, Liftarm 1 x 7 Thick,1,15,White,Solid Colors,6,1.74
+32525,6029578,32525,Technic, Liftarm 1 x 11 Thick,11,0,Black,Solid Colors,4,2.8
+3700,370001,3700,Technic, Brick 1 x 2 with Hole,1,15,White,Solid Colors,1,0.82
+3701,370101,3701,Technic, Brick 1 x 4 with Holes,1,15,White,Solid Colors,1,1.46
+3705,370526,3705,Technic, Axle 4,11,0,Black,Solid Colors,9,0.6
+3707,370726,3707,Technic, Axle 8,11,0,Black,Solid Colors,3,1.18
+3708,370826,3708,Technic, Axle 12,11,0,Black,Solid Colors,1,1.83
+3713,6275844,3713,Technic Bush,86,71,Light Bluish Gray,Solid Colors,3,0.14
+3713,4125313,3713,Technic Bush,9,7,Light Gray,Solid Colors,4,0.14
+,,37316.dat,Electric Spike Prime Distance Sensor,,15,White,Solid Colors,1,
+3737,373726,3737,Technic, Axle 10,11,0,Black,Solid Colors,1,1.49
+3749,4184168,3749,Technic, Axle Pin without Friction Ridges Lengthwise,9,7,Light Gray,Solid Colors,24,0.22
+39367pb02,,39367pb02,Wheel 56 x 14 Technic with Axle Hole and 8 Pin Holes with Fixed Black Rubber Tire,11,0,Black,Solid Colors,4,0
+3961,6249387,3961,Dish 8 x 8 Inverted (Radar),39,3,Dark Turquoise,Solid Colors,1,4.57
+39794,,39794,Technic, Liftarm 7 x 11 Open Center Frame Thick,11,0,Black,Solid Colors,1,8.5
+4032,,4032,Plate, Round 2 x 2 with Axle Hole,9,7,Light Gray,Solid Colors,8,0.37
+40490,,40490,Technic, Liftarm 1 x 9 Thick,39,3,Dark Turquoise,Solid Colors,1,2.59
+41239,4620671,41239,Technic, Liftarm 1 x 13 Thick,1,15,White,Solid Colors,4,3.3
+41677,4167726,41677,Technic, Liftarm 1 x 2 Thin,11,0,Black,Solid Colors,6,0.33
+41678,4162857,41678,Technic, Axle and Pin Connector Perpendicular Double Split,11,0,Black,Solid Colors,2,0.83
+41678,4234599,41678,Technic, Axle and Pin Connector Perpendicular Double Split,85,72,Dark Bluish Gray,Solid Colors,2,0.83
+4274,427402,4274,Technic, Pin 1/2,9,7,Light Gray,Solid Colors,12,0.095
+43093,4309323,43093,Technic, Axle Pin with Friction Ridges Lengthwise,7,1,Blue,Solid Colors,18,0.26
+44294,44294194,44294,Technic, Axle 7,86,71,Light Bluish Gray,Solid Colors,1,1.05
+44294,4268663,44294,Technic, Axle 7,11,0,Black,Solid Colors,3,1.05
+4519,6238084,4519,Technic, Axle 3,11,0,Black,Solid Colors,9,0
+4519,4211815,4519,Technic, Axle 3,86,71,Light Bluish Gray,Solid Colors,2,0.43
+4757,,4757,Electric, Plate 2 x 4 with Contacts,9,7,Light Gray,Solid Colors,1,1.94
+48989,4225033,48989,Technic, Pin Connector Perpendicular 3L with 4 Pins,86,71,Light Bluish Gray,Solid Colors,4,1.22
+,,54696p02.dat,Electric Powered Up Medium Angular Motor with Light Bluish Grey Back and Hub,,15,White,Solid Colors,3,
+78c07,,78c07,Hose, Ribbed 7mm D. 7L,9,7,Light Gray,Solid Colors,4,0.49
+6538c,6212049,6538c,Technic, Axle Connector 2L (Smooth with x Hole + Orientation),1,15,White,Solid Colors,4,0.4
+60483,6265091,60483,Technic, Liftarm 1 x 2 Thick with Pin Hole and Axle Hole,11,0,Black,Solid Colors,2,0.46
+4073,,4073,Plate, Round 1 x 1 Straight Side,9,7,Light Gray,Solid Colors,4,0.12
+62531,6004137,62531,Technic, Panel Curved 11 x 3 with 2 Pin Holes through Panel Surface,1,15,White,Solid Colors,1,6.8
+64179,6016154,64179,Technic, Liftarm 5 x 7 Open Center Frame Thick,11,0,Black,Solid Colors,1,5.3
+64393,4558797,64393,Technic, Panel Fairing # 6 Long Smooth, Side B,1,15,White,Solid Colors,1,4.0
+64681,4558802,64681,Technic, Panel Fairing # 5 Long Smooth, Side A,1,15,White,Solid Colors,1,4.0
+6536,6261371,6536,Technic, Axle and Pin Connector Perpendicular,11,0,Black,Solid Colors,4,0.39
+6536,4173663,6536,Technic, Axle and Pin Connector Perpendicular,39,3,Dark Turquoise,Solid Colors,4,0.39
+6536,4173667,6536,Technic, Axle and Pin Connector Perpendicular,9,7,Light Gray,Solid Colors,2,0.39
+,,65413.dat,Technic Gear 28 Tooth Double Bevel with Peghole,,4,Red,Solid Colors,1,
+,,65414.dat,Technic Differential Casing for 5 Internal Gears,,7,Light Gray,Solid Colors,1,
+6558,4514553,6558,Technic, Pin 3L with Friction Ridges Lengthwise,7,1,Blue,Solid Colors,4,0.31
+6558,655826,6558,Technic, Pin 3L with Friction Ridges Lengthwise,11,0,Black,Solid Colors,12,0.31
+6589,4565452,6589,Technic, Gear 12 Tooth Bevel,2,19,Tan,Solid Colors,5,0.29
+6632,4107826,6632,Technic, Liftarm 1 x 3 Thin,1,15,White,Solid Colors,2,0.45
+6632,4107828,6632,Technic, Liftarm 1 x 3 Thin,11,0,Black,Solid Colors,8,0.45
+,,67718c01.dat,Electric Powered Up 6 Port Hub with Dark Turquoise Bottom,,15,White,Solid Colors,1,
+75c18,,75c18,Hose, Rigid 3mm D. 18L / 14.4cm,9,7,Light Gray,Solid Colors,2,0.7
+75535,75619,75535,Technic, Pin Connector Round 2L without Slot (Pin Joiner Round),11,0,Black,Solid Colors,6,0.38
+85861,,85861,Plate, Round 1 x 1 with Open Stud,9,7,Light Gray,Solid Colors,1,0.1
+87080,4558878,87080,Technic, Panel Fairing # 1 Small Smooth Short, Side A,1,15,White,Solid Colors,1,2.5
+87086,4558874,87086,Technic, Panel Fairing # 2 Small Smooth Short, Side B,1,15,White,Solid Colors,1,2.5
+98585,6186133,98585,Hero Factory Weapon Barrel with 2 Pin Holes and 3 Axle Holes,11,0,Black,Solid Colors,4,2.0
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+470,359.898 +a,,,,,,,,
