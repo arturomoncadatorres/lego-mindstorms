@@ -3,13 +3,13 @@
 </p>
 
 
-# AAT MS5
+# ATAT MS5
 <table><tr>
 <td>
 
 <p>
 
-Armored Assault Tank using the MINDSTORMS 51515 set, or **AAT MS5** in short. It is inspired by the [Battle Droid on STAP](https://arturomoncadatorres.com/battle-droid-stap/) of the Droid Developer Kit and the [AAT](https://arturomoncadatorres.com/aat/) of the Dark Side Developer Kit.
+I wanted to create a cool MOC to celebrate this year's May the 4th. This is what I came up with: an All Terrain Armored Transport using the MINDSTORMS 51515 set, or **AT-AT MS5** in short. There was a motorized AT-AT build in the Dark Side Developer Kit (9754). However, since it was released on 2000, I feel it was in urgent need of an update.
 
 You can read more about this build and, most importantly, find the building instructions [here](https://arturomoncadatorres.com/atat-ms5/).
 
