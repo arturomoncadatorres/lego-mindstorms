@@ -131,10 +131,10 @@ dmypy.json
 # Shortcuts
 *.lnk
 
-# Instructions (hosted on website), renders and models (too large) of original creations.
-/original/*/instructions
-/original/*/models
-/original/*/renders
+# Instructions (hosted on Rebrickable), renders and models (too large) of original creations.
+/mocs/*/instructions
+/mocs/*/models
+/mocs/*/renders
 
 # Videos (too large)
 *.mp4
