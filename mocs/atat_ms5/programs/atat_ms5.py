@@ -28,9 +28,9 @@
 # You can find a video of the robot functioning [here](TODO).
 #
 # # Required robot
-# * AT-AT MS5 (you can find the [instructions for building it here](https://arturomoncadatorres.com/atat_ms5/))
+# * AT-AT MS5 (you can find the [instructions for building it here](https://arturomoncadatorres.com/atat-ms5/))
 #
-# <img src="../multimedia/atat_ms5.jpg" width="50%" align="center">
+# <img src="../multimedia/atat_ms5.png" width="50%" align="center">
 #
 # # Source code
 # You can find the code in the accompanying [`.py` file](https://github.com/arturomoncadatorres/lego-mindstorms/blob/main/mocs/atat_ms5/programs/atat_ms5.py). To get it running, simply copy and paste it in a new MINDSTORMS project.
