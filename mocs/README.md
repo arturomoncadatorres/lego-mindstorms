@@ -32,6 +32,19 @@ Armored Assault Tank using the MINDSTORMS 51515 set, or **AAT MS5** in short. It
 </table>
 
 
+* ## **[AT-AT MS5](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/mocs/atat_ms5)**<br>
+
+<table><tr>
+<td>
+<p>
+
+All Terrain Armored Transport using the MINDSTORMS 51515 set, or **AT-AT MS5** in short. It is a reimagining of the AT-AT build of the Dark Side Developer Kit (released on 2000 - long time ago). 
+
+</p>
+</td>
+<td> <img src="./atat_ms5/multimedia/atat_ms5.png" alt="" style="width: 100%;"/> </td>
+</tr>
+</table>
 
 
 -------

@@ -47,9 +47,13 @@ All of the projects use the electronics of the [51515 set](https://www.lego.com/
 ### [MOCs](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/mocs)<br>
 * Here I've documented my own creations (MOCs). For each of them, I've included the building instructions for the robot (as a PDF), as well as its corresponding (Python) program, so that anyone can reproduce them and, most importantly, *build* upon them!*
 
-<p align="center">
-  <img width="50%" src="./mocs/aat_ms5/multimedia/aat_ms5.png">
-</p>
+<table>
+<tr>
+<td> <img src="./mocs/aat_ms5/multimedia/aat_ms5.png" alt="" style="width: 100%;"/> </td>
+<td> <img src="./mocs/atat_ms5/multimedia/atat_ms5.png" alt="" style="width: 100%;"/> </td>
+</tr>
+</table>
+
 
 <sup><sub>* Pun absolutely intended</sup></sub>
 
