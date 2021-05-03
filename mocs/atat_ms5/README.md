@@ -26,10 +26,11 @@ I've included the program in two different ways:
 The best part: seeing the whole thing in action!
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=Ma7CmThktUg" target="_blank" style="text-decoration:none">
-  <img width="90%" src="./multimedia/aat_ms5_yt.png">
+  <a href="https://youtu.be/ZYaagj02bR4" target="_blank" style="text-decoration:none">
+  <img width="90%" src="./multimedia/atat_ms5_yt.png">
   </a>
 </p>
 
+I love how the looked turned out. Unfortunately, as you can see, the AT-AT MS5 doesn't perform very well on smooth surfaces 😅. I guess a redesign of the legs could have helped. However, I needed the pieces for another MOC, so I decided to leave it as it is. I have to admit that in the end it turned out quite funny.
 
 -------------
