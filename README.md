@@ -60,7 +60,15 @@ All of the projects use the electronics of the [51515 set](https://www.lego.com/
 -------
 
 ## My programming setup
-Although technically the 51515 hub can be programmed in Python, its support is quite limited. You are restricted to writing code in Python within the LEGO Mindstorms app (either in your laptop, tablet, or mobile), locking you out of using your preferred (and probably more powerful) IDE. Moreover, each project is saved as an `.lms` file, regardless if it is written in Scratch or Python. `.lms` files are binary and thus cannot be put under version control.
+Although technically the 51515 hub can be programmed in Python, its support is quite limited. You are restricted to writing code in Python within the LEGO Mindstorms app (either in your laptop, tablet, or mobile), locking you out of using your preferred (and probably more powerful) IDE. Moreover, each project is saved as an `.lms` file, regardless if it is written in Scratch or Python. `.lms` files are a bit tricky and cannot be put under version control easily.
+
+> *What is within an `.lms` file?*
+>
+> The structure within an `.lms` file is quite peculiar. When you open the `.lms` file in a text editor, you can see that the first 2 characters are PK. This is a remnant from the old DOS "pkzip" - the mother of all zip programs. You can rename the `.lms` file to `.zip` and double click it. Inside, you will find `scratch.sb3`. This is supposedly a scratch file. You can also rename this file to `.zip` and double click it. Inside, you will find a `project.json`. This is an ugly formatted json file.
+>
+> As you can see, there are a lot of things going on within an `.lms` file, making putting them under version control not very easy.
+>
+> Credit and kudos go to [`@hacky97`](https://github.com/arturomoncadatorres/lego-mindstorms/discussions/3) for shedding some light into this matter.
 
 Given these restrictions, this is how I've configured my setup for the development and documentation of my LEGO Mindstorms projects using Python:
 
