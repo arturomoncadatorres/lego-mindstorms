@@ -47,13 +47,13 @@ All Terrain Armored Transport using the MINDSTORMS 51515 set, or **AT-AT MS5** i
 </table>
 
 
-* ## **[AT-AT MS5](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/mocs/xwing_ms5)**<br>
+* ## **[X-Wing MS5](https://github.com/arturomoncadatorres/lego-mindstorms/tree/main/mocs/xwing_ms5)**<br>
 
 <table><tr>
 <td>
 <p>
 
-An X-wing Starfighter using the MINDSTORMS 51515 set, or **X-wing MS5** in short. It is inspired by the EV3 version by [LEGORobotics Mr. Hino](https://www.youtube.com/watch?v=9LORehcdxRA&). 
+An X-Wing Starfighter using the MINDSTORMS 51515 set, or **X-Wing MS5** in short. It is inspired by the EV3 version by [LEGORobotics Mr. Hino](https://www.youtube.com/watch?v=9LORehcdxRA&){:target="_blank"}.
 
 </p>
 </td>
