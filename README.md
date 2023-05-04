@@ -52,6 +52,9 @@ All of the projects use the electronics of the [51515 set](https://www.lego.com/
 <td> <img src="./mocs/aat_ms5/multimedia/aat_ms5.png" alt="" style="width: 100%;"/> </td>
 <td> <img src="./mocs/atat_ms5/multimedia/atat_ms5.png" alt="" style="width: 100%;"/> </td>
 </tr>
+<tr>
+<td> <img src="./mocs/xwing_ms5/multimedia/xwing_ms5.png" alt="" style="width: 100%;"/> </td>
+</tr>
 </table>
 
 
