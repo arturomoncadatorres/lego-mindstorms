@@ -106,7 +106,11 @@ Given these restrictions, this is how I've configured my setup for the developme
 <sup><sub>The LEGO Mindstorms Python interface with code from the `.py` file. It works!</sub></sup>
 
 
-After this, I just get into the coding and documentation cycle (with a lot of copy-pasting in between). This setup isn't ideal, but at least it works. I hope that in the future the LEGO Mindstorms app works with `.py` files. Technically, Python support is still on beta, so it might still happen!
+After this, I just get into the coding and documentation cycle (with a lot of copy-pasting in between). This setup isn't ideal, but at least it works. Anyhow, I hope that in the future the LEGO Mindstorms app works with `.py` files. Technically, Python support is still on beta, so it might still happen!
+
+### VS Code
+Recently, [jamesbiederbeck pointed out](https://github.com/arturomoncadatorres/lego-mindstorms/discussions/5) that there is an extension for Visual Studio Code, which you can download [here](https://marketplace.visualstudio.com/items?itemName=PeterStaev.lego-spikeprime-mindstorms-vscode). It seems to have some nice features, but I haven't had the chance to check it out. If you do, please share your experience in the [discussion](https://github.com/arturomoncadatorres/lego-mindstorms/discussions/5)!
+
 
 ##### <br> **TLDR**: For each project, copy the contents of the `.py` file into the Mindstorms Python project.
 
